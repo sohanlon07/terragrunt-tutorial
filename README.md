@@ -1,2 +1,2 @@
 # terragrunt-tutorial
-Terrafrom tutorials but iwht terragrunt
+Terrafrom tutorials but with terragrunt
